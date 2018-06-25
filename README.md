@@ -1,1 +1,3 @@
 # Gibbs-Bayes
+
+Arquivo inicial
